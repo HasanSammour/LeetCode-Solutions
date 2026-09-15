@@ -1,4 +1,3 @@
-
 /**
  * Initialize data structure
  * 
